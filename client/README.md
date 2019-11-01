@@ -1,3 +1,7 @@
+## Streams
+
+This is a live-streaming provider that allows users to stream and view others' streams.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
